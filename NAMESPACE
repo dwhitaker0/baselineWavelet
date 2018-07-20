@@ -8,5 +8,6 @@ export(
        "widthEstimationCWT",
        "baselineCorrectionCWT",
 	   "plotRidgeList",
-	   "WhittakerSmooth"
+	   "WhittakerSmooth",
+	   "localMaximum"
        )
